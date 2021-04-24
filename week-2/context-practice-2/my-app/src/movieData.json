@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Mortal Kombat",
+        "rated": "R"
+    },
+    {
+        "id": 2,
+        "title": "The Shawshank Redemption",
+        "rated": "R"
+    },
+    {
+        "id": 3,
+        "title": "The Godfather",
+        "rated": "R"
+    },
+    {
+        "id": 4,
+        "title": "The Dark Knight",
+        "rated": "PG-13"
+    },
+    {
+        "id": 5,
+        "title": "12 Angry Men",
+        "rated": "PG-13"
+    },
+    {
+        "id": 6,
+        "title": "The Lord of the Rings",
+        "rated": "PG-13"
+    },
+    {
+        "id": 7,
+        "title": "Halloween",
+        "rated": "R"
+    },
+    {
+        "id": 8,
+        "title": "Pulp Fiction",
+        "rated": "R"
+    }
+]

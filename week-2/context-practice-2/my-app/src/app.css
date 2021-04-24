@@ -1,0 +1,18 @@
+* {
+     margin: 0;
+     text-align: center;
+     color: gold;
+}
+
+body {
+     background-image: url("https://www.gannett-cdn.com/-mm-/83e081eae80cd2848af52df6da1060d621468f19/c=0-111-2120-1303/local/-/media/2021/02/04/USATODAY/usatsports/red-movie-theater-seats.jpg?width=2120&height=1192&fit=crop&format=pjpg&auto=webp");
+}
+
+.header {
+     padding: 20px;
+}
+
+button {
+     padding: 10px;
+     color: blue;
+}

@@ -1,0 +1,12 @@
+.movie-list-container {
+     padding: 25px;
+}
+
+.movie-list-title {
+     margin: 10px;
+     padding: 10px;
+}
+
+.movie-list-rating {
+     margin: 10px;
+}
