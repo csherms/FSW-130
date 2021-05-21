@@ -1,0 +1,30 @@
+html {
+     background-color: rgb(48, 57, 89);
+     text-align: center;
+}
+
+h1, h3, p {
+     color: rgb(47, 47, 255);
+}
+
+.container {
+     background-color: rgb(109, 191, 216);
+     border-radius: 25px;
+     margin-left: 300px;
+     margin-right: 300px;
+     margin-top: 50px;
+     padding: 25px;
+     box-shadow: 10px 15px 15px black;
+     border: 5px solid white;
+}
+
+input {
+     padding: 10px;
+     background-color: whitesmoke;
+}
+
+button {
+     padding: 10px;
+     border: none;
+     border-radius: 10px;
+}
